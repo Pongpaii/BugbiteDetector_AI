@@ -1,5 +1,5 @@
- tensorflow
-  keras
-  opencv-python
-  numpy
-  streamlit
+tensorflow
+keras
+opencv-python
+numpy
+streamlit
